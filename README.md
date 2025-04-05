@@ -29,7 +29,7 @@ An interactive, mobile-friendly web application designed to help users learn voc
 ## 🛠️ Tech Stack
 
 - HTML5  
-- CSS3 (3D transitions, flexbox, animations)  
+- CSS3 ,Tailwind CSS (3D transitions, flexbox, animations)  
 - JavaScript (DOM manipulation, logic, storage)
 
 ---
